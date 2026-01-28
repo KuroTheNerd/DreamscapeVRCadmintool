@@ -1,1 +1,10 @@
-
+{
+  "version": "1.1",
+  "admins": [
+    { "id": "b6a0044b-82b9-4eb4-a109-c2e9fad2f80b", "level": 100, "note": "KuroTheNerd" }
+  ],
+  "bannedUsers": [
+    "usr_troll-id-1",
+    "usr_griefer-id-2"
+  ]
+}
