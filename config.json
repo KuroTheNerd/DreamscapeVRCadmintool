@@ -1,7 +1,12 @@
 {
   "version": "1.1",
   "admins": [
-    { "id": "b6a0044b-82b9-4eb4-a109-c2e9fad2f80b", "level": 100, "note": "KuroTheNerd" }
+    { "id": "b6a0044b-82b9-4eb4-a109-c2e9fad2f80b", "level": 110, "note": "KuroTheNerd" }
+    { "id": "353f5a42-b614-4ccb-b29f-57049f5fc45f", "level": 100, "note": "LadyMallow" }
+    { "id": "f97a43d8-c241-4bb6-9fb9-c77034457ffa", "level": 100, "note": "Grimbel" }
+    { "id": "bd252c83-ac47-4bfa-9a95-00abdca3c408", "level": 100, "note": "Kafkax3" }
+    { "id": "9055c4ef-4be8-4a87-89cf-054e16c008cf", "level": 100, "note": "Kev1nRoyal" }
+    { "id": "353f5a42-b614-4ccb-b29f-57049f5fc45f", "level": 100, "note": "LadyMallow" }
   ],
   "bannedUsers": [
     "usr_troll-id-1",
